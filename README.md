@@ -1,0 +1,1 @@
+This is a simple application that generates a sound and adds a css effect when specific keys are pressed.
